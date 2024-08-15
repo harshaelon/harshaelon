@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **RAG Systems**
 
-- 👯 I’m looking to collaborate on **GEN AI, AI , ML , DL Projects**
+- 👯 I’m looking to collaborate on **GEN AI/AI/ML/DL Projects**
 
 - 📝 I regularly write articles on [https://medium.com/@chandraharsha.kethavarapu](https://medium.com/@chandraharsha.kethavarapu)
 
 - 💬 Ask me about **Machine Learning , LLM's**
 
 - 📫 How to reach me **chandraharsha.kethavarapu@ptuniv.edu.in**
+
+- 💬 Pronouns : **Pogba**
 
 - ⚡ Fun fact **I Think i am weird**
 
