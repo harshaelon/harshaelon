@@ -3,8 +3,10 @@
 - 🌱 I’m currently learning RAG Based Systems
 - 💞️ I’m looking to collaborate on Generative AI projects
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/chandra-harsha-k/
-- 😄 Pronouns: Pogba
+- 😄 Pronouns: Pogba  
 - ⚡ Fun fact: I
+
+- PYTHON , JAVA , C++ , DOCKERS , PHP , MYSQL 
 
 <!---
 harshaelon/harshaelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
