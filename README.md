@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Generative AI projects
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/chandra-harsha-k/
 - 😄 Pronouns: Pogba  
-- ⚡ Fun fact: I
+- ⚡ Fun fact: I'm Weird
 
-- PYTHON , JAVA , C++ , DOCKERS , PHP , MYSQL 
+
 
 <!---
 harshaelon/harshaelon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
