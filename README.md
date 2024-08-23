@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chandraharsha.kethavarapu@ptuniv.edu.in**
 
-- 💬 Pronouns : **Pogba**
+- 💬
 
 - ⚡ Fun fact **I Think i am weird**
 
