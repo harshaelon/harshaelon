@@ -15,9 +15,7 @@
 
 - 📫 How to reach me **chandraharsha.kethavarapu@ptuniv.edu.in**
 
-- 💬
-
-- ⚡ Fun fact **I Think i am weird**
+- ⚡ Fun fact **I Think i am a robot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
