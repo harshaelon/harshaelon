@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshaelon&label=Profile%20views&color=0e75b6&style=flat" alt="harshaelon" /> </p>
 
-- 🔭 I’m currently working on **Ayurveda LLM**
+- 🔭 I’m currently working on **MCP & Agentic RAG Systems**
 
-- 🌱 I’m currently learning **RAG Systems**
+- 🌱 I’m currently learning **A2A Framework**
 
 - 👯 I’m looking to collaborate on **GEN AI/AI/ML/DL Projects**
 
